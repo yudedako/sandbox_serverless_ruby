@@ -1,0 +1,7 @@
+{
+  "name": "sandbox_serverless_ruby",
+  "version": "1.0.1",
+  "description": "Example demonstrates how to setup a simple HTTP GET endpoint",
+  "author": "",
+  "license": "MIT"
+}
