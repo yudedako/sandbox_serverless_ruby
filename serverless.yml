@@ -10,7 +10,7 @@ provider:
 
 functions:
   current_time:
-    handler: handler.endpoint
+    handler: handler.lambda_handler
     events:
       - http:
           path: ping
